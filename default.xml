@@ -40,12 +40,12 @@
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" />
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" groups="pdk" />
-  <project path="device/qcom/common" name="android_device_qcom_common" />
-  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" />
-  <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" />
-  <project path="hardware/samsung" name="android_hardware_samsung" />
-  <project path="hardware/qcom/display-caf-new" name="android_hardware_qcom_display-caf-new" />
-  <project path="hardware/qcom/media-caf-new" name="android_hardware_qcom_media-caf-new" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
+  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" />
+  <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" />
   <project path="device/samsung/lt03lte" name="Schischu/android_device_samsung_lt03lte" remote="github" revision="cm-11.0" />
   <project path="kernel/samsung/lt03lte" name="android_kernel_samsung_lt03lte" remote="github" revision="master" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
